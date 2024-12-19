@@ -1,6 +1,6 @@
 # provider_app
 
-A new Flutter project.
+This is a flutter with provider as a state management which was used to test the effectiveness of provider in a flutter app instead of GetX.
 
 ## Getting Started
 
